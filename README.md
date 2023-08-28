@@ -5,14 +5,6 @@
 
 <sh6403@nyu.edu>
 
-*Taran Iyengar*
-
-<ti2059@nyu.edu>
-
-*Anshul Saigal*
- 
-<as15183@nyu.edu>
-
 Our final project is recreating the solar system in OpenGL. We will be visualizing an artificial solar system in a 3D space and allowing a user to move around in first-person view.  In total, there will be a sun and eight planets that orbit the sun. The sun will act as our main light source. 
 
 ### Overview
