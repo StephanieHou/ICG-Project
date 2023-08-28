@@ -23,29 +23,12 @@ make
 
 ### Core Features / Tasks
 
-1. Free-Roam Camera (5%) - Stephanie Hou
-2. Mouse Controls (5%) - Stephanie Hou
-3. Specular Highlights On Oceans (5%) - Stephanie Hou
-4. Gamma Correction (5%) - Stephanie Hou
-5. Bloom Shader (10%) - Stephanie Hou
-6. Oren-Nayar Shading (5%) - Taran Iyengar
-7. Planet Animation (10%) - Taran Iyengar
-8. FXAA (15%) - Taran Iyengar
-9. Moon Eclipse (5%) - Anshul Saigal
-10. Shadow Mapping (25%) - Anshul Saigal
-11. Time-Based Positioning (10%) - Taran Iyengar / Anshul Saigal
-
-### Bonus Features / Tasks
-1. Planet Display Label (5%) - Not Done
-2. FOV Heads-Up Display (5%) - Not Done
-3. Skybox (5%) - Stephanie Hou
-
-### Total
-- 35% - Stephanie Hou
-- 35% - Taran Iyengar
-- 35% - Anshul Saigal
-
-
+1. Free-Roam Camera
+2. Mouse Controls
+3. Specular Highlights On Oceans
+4. Gamma Correction
+5. Bloom Shader
+6. Skybox
 
 ### Free-Roam Camera / Mouse Controls / Skybox
 ![Camera](./images/Camera.gif)
